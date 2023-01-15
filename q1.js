@@ -27,3 +27,4 @@ let maximumEven = (params) =>{
 }
 
 console.log(maximumEven(array))
+module.exports={maxEven,maximumEven};
