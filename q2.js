@@ -33,3 +33,4 @@ let checkSameDigits = n =>{
 }
 
 console.log(checkSameDigits(444444444))
+module.exports = {isSameDigits,checkSameDigits}
