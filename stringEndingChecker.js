@@ -1,8 +1,8 @@
 function endScript(str){
-    return str.endsWith("Script")
+  return str.endsWith('Script');
 }
 
-let checkEnd = str => str.endsWith("Script")
+let checkEnd = str => str.endsWith('Script');
 
-console.log(endScript("JavaScript"))
-console.log(checkEnd("Javascript"))
+console.log(endScript('JavaScript'));
+console.log(checkEnd('Javascript'));
