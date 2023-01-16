@@ -1,4 +1,4 @@
-const {invertCapitalisation,invertString}=require('./q3');
+const {invertCapitalisation,invertString}=require('./invertCapitalisation');
 
 test('convert lowercase characters to uppercase and vice-versa',()=>{
     expect(
